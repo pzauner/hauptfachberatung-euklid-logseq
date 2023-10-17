@@ -1,0 +1,2 @@
+file:: [Hausarbeit-Politische-Geschichte-Patrick_Zauner-Radikalenerlass_1697395970066_0.pdf](https://github.com/pzauner/hauptfachberatung-euklid-logseq/blob/main/assets/Hausarbeit-Politische-Geschichte-Patrick_Zauner-Radikalenerlass_1697395970066_0.pdf)
+file-path:: https://github.com/pzauner/hauptfachberatung-euklid-logseq/blob/main/assets/Hausarbeit-Politische-Geschichte-Patrick_Zauner-Radikalenerlass_1697395970066_0.pdf

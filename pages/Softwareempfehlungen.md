@@ -31,8 +31,7 @@
 				- tippst du noch oder setzt du schon?
 				- Man wirkt einfach dreimal so cool (in der eigenen Vorstellung)
 				- tbh: Es sieht aber auch einfach cleaner aus.
-					- vgl: ![Hausarbeit-Politische-Geschichte-Patrick_Zauner-Radikalenerlass.pdf](../assets/Hausarbeit-Politische-Geschichte-Patrick_Zauner-Radikalenerlass_1697395970066_0.pdf)
-						-
+					- vgl: [Hausarbeit-Politische-Geschichte-Patrick_Zauner-Radikalenerlass.pdf](https://github.com/pzauner/hauptfachberatung-euklid-logseq/blob/main/assets/Hausarbeit-Politische-Geschichte-Patrick_Zauner-Radikalenerlass_1697395970066_0.pdf)
 				- ![Using LaTeX for writing research papers | The Data Mining Blog](https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fdata-mining.philippe-fournier-viger.com%2Fwp-content%2Fuploads%2F2017%2F02%2Flatex.png&sp=1697395474Tadb7fd2776252312240bad9d2a6e626001a29d30e4c988001b7e745b42750a49){:height 358, :width 658}
 			- LaTeX-Nachfolger
 				- [Typst](https://typst.app/)

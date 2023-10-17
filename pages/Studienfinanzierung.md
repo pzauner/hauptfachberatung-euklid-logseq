@@ -16,10 +16,10 @@
 	- Aufgrund der Kündigung des Referenten:
 		- https://www.peba.kit.edu/hiwi.php
 	- Vom Fachschafts-Mailverteiler seit Juni:
-		- [IfR_Hiwi_Ausschreibung_Grafikdesign.pdf](../assets/IfR_Hiwi_Ausschreibung_Grafikdesign_1697390661972_0.pdf)
-		- [IfR_Hiwi_Ausschreibung_Oeffentlichkeitsarbeit.pdf](../assets/IfR_Hiwi_Ausschreibung_Oeffentlichkeitsarbeit_1697390670579_0.pdf)
-		- [Stellenausschreibung_HiWi ÖA.pdf](../assets/Stellenausschreibung_HiWi_ÖA_1697390715399_0.pdf)
-		- [2023_6_Stellenausschreibung_Hiwi FOR-B.pdf](../assets/2023_6_Stellenausschreibung_Hiwi_FOR-B_1697390731897_0.pdf)
+		- [IfR_Hiwi_Ausschreibung_Grafikdesign.pdf](https://github.com/pzauner/hauptfachberatung-euklid-logseq/blob/main/assets/IfR_Hiwi_Ausschreibung_Grafikdesign_1697390661972_0.pdf)
+		- [IfR_Hiwi_Ausschreibung_Oeffentlichkeitsarbeit.pdf](https://github.com/pzauner/hauptfachberatung-euklid-logseq/blob/main/assets/IfR_Hiwi_Ausschreibung_Oeffentlichkeitsarbeit_1697390670579_0.pdf)
+		- [Stellenausschreibung_HiWi ÖA.pdf](https://github.com/pzauner/hauptfachberatung-euklid-logseq/blob/main/assets/Stellenausschreibung_HiWi_ÖA_1697390715399_0.pdf)
+		- [2023_6_Stellenausschreibung_Hiwi FOR-B.pdf](https://github.com/pzauner/hauptfachberatung-euklid-logseq/blob/main/assets/2023_6_Stellenausschreibung_Hiwi_FOR-B_1697390731897_0.pdf)
 -
 - # #BAföG
 	- Beratungsstelle und Infoseite des Studierendenwerks:
