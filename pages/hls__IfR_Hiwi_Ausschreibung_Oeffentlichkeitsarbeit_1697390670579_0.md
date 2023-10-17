@@ -1,0 +1,2 @@
+file:: [IfR_Hiwi_Ausschreibung_Oeffentlichkeitsarbeit_1697390670579_0.pdf](../assets/IfR_Hiwi_Ausschreibung_Oeffentlichkeitsarbeit_1697390670579_0.pdf)
+file-path:: ../assets/IfR_Hiwi_Ausschreibung_Oeffentlichkeitsarbeit_1697390670579_0.pdf

@@ -1,0 +1,39 @@
+# #Hiwijob
+	- Die besten Optionen für die Arbeit neben dem Studium sind Jobs für Studierende aka Hiwijobs.
+	- Hier gibt es einerseits Tätigkeiten, die mehr auf die Inhalte des Studiums ausgelegt sind, besonders in naturwissenschaftlichen Fächern. Diese dienen anschließend auch für gute Referenzen nach dem Studium und Praxiserfahrung.
+		- Andererseits gibt es auch Tätigkeiten, die sich eher auf die Unterstützung in Instituten fokussieren und weniger fachliche Anforderungen stellen.
+	- Bezahlung: Landesweit an Hochschulen 12€/h ohne Bachelorabschluss für studentische Hilfskräfte -> Mehr siehe [Website der Uni Heidelberg](https://www.personalrat.uni-heidelberg.de/Hiwi.html)
+-
+- Maximal 6 Jahre, da [**Wissenschaftszeitvertragsgesetz**](https://www.gesetze-im-internet.de/wisszeitvg/BJNR050610007.html) (WissZeitVG)
+	- ein laut BMBF sehr wichtiges und die Innovationskraft durch Druck förderndes Gesetz, »damit nicht eine Generation alle Stellen verstopft« {{video https://youtu.be/PIq5GlY4h4E?feature=shared&t=70}}
+	- PR des BMBF https://www.bmbf.de/bmbf/shareddocs/kurzmeldungen/de/ichbinhanna.html
+-
+-
+- ## Website des Career Service Portals des KIT
+	- [Hiwi-Jobs am KIT](https://www.careerserviceportal.kit.edu/en/jobboerse/hiwi-jobs/?s=1&search_text=&search_submit=Search&search_arr_filter_10%5B%5D=2)
+-
+- ## Exemplarische #Stellenausschreibungen
+	- Aufgrund der Kündigung des Referenten:
+		- https://www.peba.kit.edu/hiwi.php
+	- Vom Fachschafts-Mailverteiler seit Juni:
+		- [IfR_Hiwi_Ausschreibung_Grafikdesign.pdf](../assets/IfR_Hiwi_Ausschreibung_Grafikdesign_1697390661972_0.pdf)
+		- [IfR_Hiwi_Ausschreibung_Oeffentlichkeitsarbeit.pdf](../assets/IfR_Hiwi_Ausschreibung_Oeffentlichkeitsarbeit_1697390670579_0.pdf)
+		- [Stellenausschreibung_HiWi ÖA.pdf](../assets/Stellenausschreibung_HiWi_ÖA_1697390715399_0.pdf)
+		- [2023_6_Stellenausschreibung_Hiwi FOR-B.pdf](../assets/2023_6_Stellenausschreibung_Hiwi_FOR-B_1697390731897_0.pdf)
+-
+- # #BAföG
+	- Beratungsstelle und Infoseite des Studierendenwerks:
+		- https://www.sw-ka.de/de/geld/bafoeg/
+- # #Stipendien
+	- Einkommens- und elternunabhängig und nicht beim BAföG anzurechnen, zur Hälfte vom Bund, zur anderen von privaten Geldgebern bezahlt
+	- bspw.: [Deutschlandstipendium](https://www.irm.kit.edu/deutschlandstipendium.php)
+		- weitere:
+			- http://www.stipendiumplus.de/
+			- http://www.google.com/studentswithdisabilities-europe/
+			- http://www.test.de/themen/bildung-soziales/special/Zahlreiche-Chancen-auf-Stipendien-Sponsoren-fuers-Studium-1486257-4255438/
+			- http://aktion-luftsprung.de/luftsprung-campus/stipendium/
+			- http://www.studentenwerke.de/de/content/stipendien-tipps-f%C3%BCr-studierende-mit-beeintr%C3%A4chtigungen
+- # #KfW-Kredit
+	- je nach den eigenen Umständen empfehlenswert - Der Bildungskredit ist jedoch erst nach 2 Jahren Studium sinnvoll, da es vorher zu viele unbekannte Variablen gibt.
+		- [Link zum Bildungskredit (niedrigere Zinsen aber geringere Summe)](https://www.kfw.de/inlandsfoerderung/Privatpersonen/Studieren-Qualifizieren/F%C3%B6rderprodukte/Bildungskredit-(173)/)
+	- [Link zum Studienkredit (höhere Zinsen aber größere Summe)](https://www.kfw.de/inlandsfoerderung/Privatpersonen/Studieren-Qualifizieren/F%C3%B6rderprodukte/KfW-Studienkredit-(174)/)

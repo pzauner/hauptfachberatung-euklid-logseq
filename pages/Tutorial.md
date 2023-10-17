@@ -1,0 +1,5 @@
+- Links unter den **Favoriten** findest Du alle Seiten die relevant sind.
+-
+- Über das #Inhaltsverzeichnis kannst Du schnell zum richtigen Punkt springen und siehst eine chronologische Übersicht.
+-
+- Diese Webvariante kannst du dir auch zum Editieren in Logseq herunterladen: ((652d341c-8cbe-4148-8c99-128a5b814b4c))

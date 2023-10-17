@@ -1,0 +1,23 @@
+# Auszug aus dem #Modulhandbuch
+	- Fachstudienberater: Prof. Marcus Popplow
+	- Studiengangkoordinator: Dr. Hans-Jürgen Link
+	- Prüfungskoordinator: Dr. Christoph Schmidt-Petri
+	- Eine aktuelle Liste über die Studiengang-/Prüfungskoordinatoren der ergänzenden
+	  Wahlpflichtfächer finden Sie auf der [Internetseite der Fakultät](https://www.geistsoz.kit.edu/1192.php)
+- # Weitere Beratungsstellen
+	- Allgemeines: [SLE](https://sle.kit.edu)
+	- [AStA](https://www.asta-kit.de/de/asta/referate/soziales)
+	- Nicht zuletzt: die [Fachschaft](https://geistsoz.de)
+	- einfach danach Suchen, es gibt wirklich einige.
+- # Referent
+	- Patrick Zauner
+		- [patrick.zauner@student.kit.edu](mailto:patrick.zauner@student.kit.edu)
+		- sowie privat, auch nach dem Studium:
+			- am besten eine Mail aus einem Impressum unter:
+				- [pzauner.de](https://pzauner.de)
+				- [conamara.eu](https://conamara.eu)
+				- [gesellschaftsproduktionen.de](https://gesellschaftsproduktionen.de)
+			- [GitHub](https://github.com/pzauner)
+			- [Mastodon](https://eupolicy.social/@conamara)
+			- [Bluesky](https://bsky.app/profile/pzauner.de)
+			- [Instagram](https://www.instagram.com/zaunerpa/)
